@@ -1,6 +1,22 @@
-<p>
-  <img align='center' src="https://github.com/aloysse/aloysse/raw/main/img/banner.gif">
+<p align="center">
+  <img src="https://github.com/aloysse/aloysse/raw/main/img/banner.gif">
 </p>
+---
+
+---
+## Languages and Tools 
+
+<img align="left" alt="" width="30ox" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="" width="30ox" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="" width="30ox" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="" width="30ox" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="" width="30ox" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="" width="30ox" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="" width="30ox" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+          
+          
+          
 <!--
 **aloysse/aloysse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
