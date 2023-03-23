@@ -3,7 +3,7 @@
 <h1>Hi, I'm Minshiou<br/>
 <img alt="front-End engineer" src="https://custom-icon-badges.demolab.com/badge/-Front--End%20Engineer-blue?logo=code" />
 <img alt="graphic designer" src="https://custom-icon-badges.demolab.com/badge/-Graphic%20Designer-blue?logo=pencil" />
-<img alt="senior meditator" src="https://custom-icon-badges.demolab.com/badge/-Senior%20Meditor-blue?logo=lotus-white" />
+<img alt="senior meditator" src="https://custom-icon-badges.demolab.com/badge/-Senior%20Meditator-blue?logo=lotus-white" />
 </h1>
 
 <p>I am a front-end engineer from Taiwan, with years of experience in web design and graphic design.</p>
