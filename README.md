@@ -22,4 +22,4 @@
 
 <h2>GitHub Profile Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloysse&theme=react&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloysse&theme=react&layout=compact&hide_border=true)
