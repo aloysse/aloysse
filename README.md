@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi, I'm Minshiou</h1>
 <p align="center">
-<img alt="front-End engineer" src="https://img.shields.io/badge/-Front--End%20Engineer-lightgrey?logo=code" />
-<img alt="graphic designer" src="https://img.shields.io/badge/-Graphic%20Designer-gef?logo=pencil" />
-<img alt="senior meditator" src="https://img.shields.io/badge/-Senior%20Meditor-palegreen?logo=lotus" />
+<img alt="front-End engineer" src="https://custom-icon-badges.demolab.com/badge/-Front--End%20Engineer-lightgrey?logo=code" />
+<img alt="graphic designer" src="https://custom-icon-badges.demolab.com/badge/-Graphic%20Designer-gef?logo=pencil" />
+<img alt="senior meditator" src="https://custom-icon-badges.demolab.com/badge/-Senior%20Meditor-palegreen?logo=lotus" />
 </p>
 
 <p>I am a front-end engineer from Taiwan, with years of experience in web design and graphic design.</p>
