@@ -1,8 +1,13 @@
-<p align="center">
-  <img src="https://github.com/aloysse/aloysse/raw/main/img/banner.gif">
-</p>
----
+# <p align="center"><img src="https://github.com/aloysse/aloysse/raw/main/img/banner.gif"></p>
 
+<h1 align="center">Hi, I'm Minshiou</h1>
+<p align="center">
+<img alt="front-End engineer" src="https://img.shields.io/badge/-Front--End%20Engineer-lightgrey" />
+<img alt="graphic designer" src="https://img.shields.io/badge/-Graphic%20Designer-gef" />
+<img alt="senior meditator" src="https://img.shields.io/badge/-Senior%20Meditor-palegreen" />
+</p>
+
+I am a front-end engineer from Taiwan, with years of experience in web design and graphic design.
 ---
 ## Languages and Tools 
 
