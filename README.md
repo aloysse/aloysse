@@ -1,5 +1,6 @@
-# [![Minshiou header](https://raw.githubusercontent.com/aloysse/aloysse/main/img/banner.gif)]
-
+<p>
+  <img align='center' src="https://github.com/aloysse/aloysse/raw/main/img/banner.gif">
+</p>
 <!--
 **aloysse/aloysse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
