@@ -15,11 +15,7 @@
 <img alt="css" width="30ox" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="javascript" width="30ox" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="react" width="30ox" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="tailwind" width="30ox" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="tailwind" width="30ox" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img alt="bootstrap" width="30ox" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img alt="git" width="30ox" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
-
-<h2>GitHub Profile Stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloysse&theme=react&layout=compact&hide_border=true)
